@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--このファイルは、遠隔測定のために VS ビルド プロセスによって生成されたものです-->
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="AppxManifestMetadata">
+    <AppxManifestMetaData Include="VisualStudio">
+      <Version>14.0</Version>
+    </AppxManifestMetaData>
+    <AppxManifestMetaData Include="VisualStudioEdition">
+      <Value>Microsoft Visual Studio Professional 2015</Value>
+    </AppxManifestMetaData>
+    <AppxManifestMetaData Include="C:\windows\system32\cmd.exe">
+      <Name>OperatingSystem</Name>
+    </AppxManifestMetaData>
+    <AppxManifestMetaData Include="ProjectGUID">
+      <Value>8f28382b-5a00-4d16-8a4c-45f54d1241bd</Value>
+    </AppxManifestMetaData>
+  </ItemGroup>
+</Project>

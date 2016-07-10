@@ -1,0 +1,17 @@
+{
+  "name": "onsenapp",
+  "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "scripts": {
+
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "onsenui": "2.0.0-rc.15"
+  },
+  "devDependencies": {
+
+  }
+}
