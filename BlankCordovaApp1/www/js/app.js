@@ -3,10 +3,10 @@
     var module = angular.module('app', []);
 
     module.controller('AppController', function ($scope, $data) {
-
+        //URL取得する
         $scope.feedLoad = function () {
             //RSS用のURLをxml形式を取得
-            var _res = $data.feedRead("http://feeds.lifehacker.jp/rss/lifehacker/index.xml");
+            var _res = $data.feedRead("http://gigazine.net/news/rss_2.0/");
             var _title = "";
             var _list = [];
             _res
@@ -20,7 +20,7 @@
                     //return _list;
                 });
         }
-
+        //ブラウザ開く
         $scope.showDetail = function (index) {
             var item = $scope.rsslist[index];
             
