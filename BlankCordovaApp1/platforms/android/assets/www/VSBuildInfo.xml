@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--このファイルは、遠隔測定のために VS ビルド プロセスによって生成されたものです-->
+<VSBuildInfo xmlns="http://schemas.microsoft.com/developer/appx/2012/build">
+  <Metadata>
+    <Item Name="VisualStudio" Version="14.0" />
+    <Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Professional 2015" />
+    <Item Name="OperatingSystem" Version="10.0.10586.0 (th2_release.151029-1700)" />
+    <Item Name="ProjectGUID" Value="8f28382b-5a00-4d16-8a4c-45f54d1241bd" />
+  </Metadata>
+</VSBuildInfo>

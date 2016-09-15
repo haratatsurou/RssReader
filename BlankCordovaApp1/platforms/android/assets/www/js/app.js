@@ -19,7 +19,7 @@
                     //alert("ng:" + _data);
                     //return _list;
                 });
-        }
+        };
         //ブラウザ開く
         $scope.showDetail = function (index) {
             var item = $scope.rsslist[index];
